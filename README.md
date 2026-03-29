@@ -1,11 +1,13 @@
-# rope-str
+# rope-string
 
-Rope data structure for efficient string ops.""".
-
-Zero dependencies. Python 3.8+.
+Rope Data Structure for String Editing. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
 python3 rope_str.py --help
 ```
+
+## License
+
+MIT
